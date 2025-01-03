@@ -1,0 +1,86 @@
+Name of the States,Name of the Cities,Population,Time (27-12-2024),PM2.5,SO2,CO,Temperture (c),Humidity,Average
+Telangana,Hyderabad,"11,069,000",1:12:00 PM,12,4,210,26,61%,15
+Mizoram,Aizawl,"293,416",12:16:00 PM,13,2.6,60,19,68%,15
+Assam,Nagaon,"1,023,558",1:41:00 PM,13,3,323,24,45%,45
+Karnataka ,Hubballi,"943,788",1:12:00 PM,14,8,240,31,26%,15
+Madhya Pradesh ,Jabalpur,"1,055,525",1:16:00 PM,14,6.5,980,22,46%,14
+Tamil Nadu,Chennai,"12,290,000",12:47:00 PM,16,5,190,29.4,72%,18
+Karnataka,Madikeri,"40,000",1:32:00 PM,17,3.1,240,25,28%,20
+Assam,Guwahati,"1,358,000",1:06:00 PM,17,3,248,25,53%,18
+Madhya Pradesh ,Indore,"1,964,086",1:12:00 PM,17,21.5,290,26,41%,20
+Maharashtra ,Nagpur,"2,405,665",1:41:00 PM,18.5,57.5,740,27,17%,19
+Maharashtra ,Sangli,"547,073",2:24:00 PM,20.5,5,204,30,17%,25
+TamilNadu,Ramanathapuram,"75,000",2:08:00 PM,20.8,2,219,27,56%,18
+Chhattisgarh , Raipur,"1,010,433",12:16:00 PM,22.8,6.2,790,27,21%,25
+Assam,Mushalpur,"1,779",1:41:00 PM,23,3,238,26,44%,26
+Sikkim,Gangtok,"100,000",12:56:00 PM,24.8,0.3,130,17,46%,25
+Maharashtra ,Amravati,"647,331",12:27:00 PM,25.4,15.3,205,28,16%,27
+Maharashtra ,Nashik,"1,486,053",1:48:00 PM,26.1,8,234,29,21%,27
+Maharashtra ,Akola,"579,133",12:19:00 PM,27.2,13,188,28,21%,32
+Karnataka,Bengaluru,"14,008,000",12:42:00 PM,27.8,2,211,24.4,72%,31
+Rajasthan ,Sikar,"302,974",2:31:00 PM,31.3,7,340,22,13%,32
+Karnataka,Chikkamagaluru,"120,000",12:47:00 PM,34,4,250,29.4,27%,36
+Odisha,Balasore,"200,000",12:39:00 PM,35,12,170,25,19%,40
+Rajasthan ,Jaisalmer,"678,000",1:20:00 PM,35.8,7,284,24,11%,34
+Karnataka,Chikkaballapur,"135,000",12:47:00 PM,36,10.3,264,26,41%,35
+Bihar,Arrah,"361,000",12:31:00 PM,36,7.7,460,26,33%,39
+Maharashtra,Thane,"1,841,488",2:45:00 PM,36,14,30,30,24%,40
+ Rajasthan ,Ajmer,"792,000",12:16:00 PM,37.2,6.5,440,25,15%,40
+Uttarakhand ,Rishikesh,"102,138",2:13:00 PM,39.3,15,991,16,88%,40
+Karnataka ,Mangalore,"623,841",1:32:00 PM,39.9,4.6,490,30,32%,40
+TamilNadu,Madurai,"1,017,865",1:32:00 PM,42.5,10.2,250,29,54%,40
+Punjab ,Ludhiana,"1,618,879",1:25:00 PM,43.1,19,1372,14,82%,40
+Andhra Pradesh ,Rajamahendravaram,"343,304",2:08:00 PM,43.3,5,446,28,57%,45
+Maharashtra,Pune,"3,124,458",1:57:00 PM,43.5,9.1,970,30,20%,42
+Madhya Pradesh,Singrauli,"1,530,000",2:37:00 PM,44,23,462,26,48%,45
+Andhra Pradesh ,Amaravati,"160,000",12:19:00 PM,44.5,23.6,1020,28,36%,50
+ Rajasthan ,Alwar,"1,474,418",12:19:00 PM,45.3,16,190,23,23%,48
+Haryana,Gurugram,"2,820,000",12:56:00 PM,46,28,426,25.5,39%,48
+Uttar Pradesh,Agra,"1,585,704",12:16:00 PM,47,12.1,330,23,26%,45
+Rajasthan ,Jaipur,"3,046,163",1:16:00 PM,49.1,8.7,820,24,19%,50
+West Bengal,Kolkata,"15,571,000",1:25:00 PM,51,19,426,27,40%,52
+ Rajasthan,Jodhpur,"1,625,000",1:20:00 PM,53,12,425,21,66%,55
+Haryana,Bandhwari,"4,164",12:39:00 PM,54,13,523,23.8,59%,58
+Uttar Pradesh,Lucknow,"2,817,105",1:25:00 PM,55.7,7.1,530,22,21%,57
+Uttar Pradesh,Muzaffarnagar,"814,000",1:41:00 PM,57,7,412,16,78%,60
+West Bengal ,Siliguri,"703,007",2:31:00 PM,57.8,4,419,21,46%,55
+Uttar Pradesh,Hapur,"349,000",1:06:00 PM,58,7,406,17,78%,58
+Uttar Pradesh,Baghpat,"1,460,000",12:39:00 PM,59,13,548,20,46%,60
+Uttar Pradesh,Meerut,"1,835,000",1:37:00 PM,59,7,406,16,79%,65
+ Bihar,Muzaffarpur,"554,000",1:41:00 PM,61,17,568,26,50%,62
+Chandigarh (Union Territory),Chandigarh,"1,240,000",12:47:00 PM,61,10,493,17.2,52%,60
+Maharashtra,Mumbai,"21,673,000",1:37:00 PM,61,20,450,29,51%,63
+Uttar Pradesh,Varanasi,"1,701,000",2:45:00 PM,64,17,436,27,45%,70
+ Uttar Pradesh,Kanpur,"3,286,000",1:25:00 PM,64,16,460,26,48%,67
+Uttar Pradesh,Dadri,"127,000",12:52:00 PM,65,9,449,17,86%,60
+Bihar,Saharsa,"2,430,000",2:24:00 PM,65,16,607,26,45%,63
+Bihar,Katihar,"4,010,000",1:25:00 PM,65,16,540,26,44%,68
+Uttar Pradesh,Greater Noida,"143,000",12:56:00 PM,66,9,455,18.8,69%,60
+Uttar Pradesh,Ghaziabad,"6,870,000",12:56:00 PM,66,10,467,17.5,72%,64
+Rajasthan,Bhiwadi,"148,000",12:42:00 PM,68.2,9.1,2540,20,55%,65
+Uttar Pradesh,Noida,"903,000",1:57:00 PM,69,10,478,16,87%,65
+Haryana,Sonipat,"1,650,000",2:37:00 PM,69,14,555,15,89%,67
+Uttar Pradesh ,Moradabad,"887,446",1:37:00 PM,69.3,17.9,625,22,27%,70
+Haryana,Jind,"1,500,000",1:20:00 PM,71,13,534,16,88%,71
+Tripura,Agartala,"652,000",12:16:00 PM,72,4,754,18,56%,75
+ Delhi (National Capital Territory),New Delhi,"33,807,000",1:48:00 PM,72,11,497,16,88%,73
+Haryana,Rohtak,"510,000",2:13:00 PM,73,15,528,15,91%,73
+Rajasthan,Hanumangarh,"2,090,000",1:06:00 PM,73,16,762,16.6,72%,72
+Assam,Goshaingaon,"12,600",12:56:00 PM,74,20,525,28.8,36%,72
+Haryana,Hisar,"379,000",1:06:00 PM,74,15,534,17,84%,75
+Bihar,Patna,"2,633,000",1:57:00 PM,74,19,545,27,56%,73
+Bihar,Rajgir,"57,000",2:08:00 PM,75,20,526,27,50%,68
+ Bihar,Bhagalpur,"515,000",12:42:00 PM,76,36.4,1650,26,28%,76
+Tamil Nadu ,Salem,"830,000",2:24:00 PM,77.8,23.6,30,29,58%,77
+Andhra Pradesh,Visakhapatnam,"1,728,128",2:45:00 PM,78,8.5,410,26,50%,75
+ Gujarat,Ahmedabad,"8,854,444",12:16:00 PM,79,3,385,19,65%,81
+Maharashtra,Alandi,"40,000",12:19:00 PM,82,44,2003,19,57%,80
+Uttar Pradesh,Bulanshahr,"4,250,000",12:42:00 PM,83,7,450,18,74%,85
+Bihar,Araria,"3,730,000",12:27:00 PM,88,12.2,1170,26,26%,87
+ Haryana,Bahadurgarh,"239,000",12:39:00 PM,88.7,14,577,14,48%,90
+Haryana,Bhiwani,"1,880,000",12:42:00 PM,92.4,9.8,430,17,66%,95
+Haryana,Kaithal,"1,220,000",1:20:00 PM,93,9,553,16,86%,95
+Haryana,Faridabad,"2,450,000",12:52:00 PM,96,11,516,17.7,73%,92
+Haryana,Charkhi Dadri,"79,000",12:47:00 PM,105,15,535,16.6,73%,102
+Haryana,Dharuhera,"42,000",12:52:00 PM,109,12,532,16.6,82%,107
+West Bengal,Asansol,"1,534,000",12:34:00 PM,131.9,12.4,465,27,29%,129
